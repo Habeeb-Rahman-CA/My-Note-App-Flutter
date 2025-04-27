@@ -1,8 +1,8 @@
 # mynotes
 
-This project is a journey of Learning flutter through building a simple project but include entire flutter portion, lets go...
+This project is a journey of Learning flutter through building a simple project but include all the important topic from flutter. I will markdown all the thing in the readme file, it will be very helpful to re-check what are the process im done in the project. 
 
-# 📱 Day 1 - Installation and Setting up a Flutter project
+# 📱 Installation and Setting up a Flutter project
 
 ## 1. Install Flutter SDK
 
@@ -65,7 +65,7 @@ flutter clean
 
 ---
 
-# 📱 Day 2 - Firebase Configuration
+# 📱 Firebase Configuration
 
 ## 1. Install Firebase CLI
 
